@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "69693b32bfee00e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "20f0fbf0c955b518",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e9d2dc4586c4305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "references/Kubernetes RBAC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Kubernetes RBAC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9afbfdd4dcafed36",
+    "type": "split",
+    "children": [
+      {
+        "id": "c030f3f3e0056c9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc4e75c0caad7e29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5677db6820285600",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eab81fad8cf70e54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20ae9ac5c79f7b5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a68c159c7a4c259",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "603dc364c352dead",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "kubectl Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d5084666f3753a32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "kubectl Setup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ecb6afb0ad059228",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9091acae2d82b0f0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ff3f7ec60d790a96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "kubectl Setup.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7e9d2dc4586c4305",
+  "lastOpenFiles": [
+    "reconnaissance/Kube API Reconnaissance (kubectl).md",
+    "-- START HERE --.md",
+    "reconnaissance/Pod Reconnaissance.md",
+    "references/AKS.md",
+    "references/AKS -.md",
+    "references/Kubernetes RBAC.md",
+    "actions-on-objective/Pod Management.md",
+    "references/Network Policies.md",
+    "actions-on-objective/Certificates.md",
+    "actions-on-objective/Service Accounts.md",
+    "references/Things of interest.md",
+    "references/Pod Security Admission (PSA).md",
+    "references/OpenShift.md",
+    "references/Pod Manifest.md",
+    "references/Setup kubectl.md",
+    "references/kubectl.md",
+    "references/Kubernetes Naming Conventions.md",
+    "references/NetworkPolicy.md",
+    "references/Intercepting Pod Web Traffic with Burp Suite.md",
+    "Tool Reference.md",
+    "references/FluxCD.md",
+    "reconnaissance/Node Reconnaissance.md",
+    "reconnaissance/Kube API Reconnaissance (curl).md",
+    "reconnaissance/etcd.md",
+    "actions-on-objective/Node Access via Debug Pod.md",
+    "actions-on-objective/kubelet.md",
+    "references",
+    "kubeapi-ttps",
+    "actions-on-objective",
+    "reconnaissance"
+  ]
+}
